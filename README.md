@@ -1,6 +1,6 @@
-# Export Strategy Analysis for Carpets
+# Export Strategy Analysis for Carpets HS 57
 
-![Project Image](path/to/your/image.jpg)
+![Project Image](https://github.com/SajalVats/Photo/blob/main/HS%2057%20Carpet%20Image.jpg)
 
 ## Overview
 This project focuses on determining a suitable export destination and product for HS code 57, specifically woven carpets (HS 570232). The analysis includes evaluating various trade metrics and selecting the best product and export destination based on these metrics.
